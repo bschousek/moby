@@ -1,0 +1,1 @@
+This folder is ugly. I was just learning FreeCAD at the time and switched midstream to a beta build for new features.
